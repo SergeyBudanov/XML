@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Skils1> Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</Skils1>
+    <Skils2>What is a client-server architecture</Skils2>
+    <skils3>HTTP Methods of requests to the server</skils3>
+    <Skils4>HTTP server response codes</Skils4>
+    <Skils5> Structures of HTTP requests and responses</Skils5>
+    <Skils6>What is JSON, XML. Their structure</Skils6>
+    <Skils7>API testing via Postman (JS, API autotests)</Skils7>
+    <Skils8> Removing and reading logs from an external server</Skils8>
+    <Skils9>Sniffing http web traffic via Charles and Fiddler</Skils9>
+</root>
