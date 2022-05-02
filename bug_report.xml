@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Summary>A short description of the problem, explicitly indicating the cause and type of error situation</Summary>
+    <Project>Name of the tested projec</Project>
+    <Component>Name of the part or function of the product being tested</Component>
+    <Version>The version on which the bug was found</Version>
+    <Severity>The most common five-level system for grading the severity of a defect is: S1 (Blocker)S2(Critical)S3 (Major)S4 (Minor)S5 ( Trivial)</Severity>
+    <Priority>P1  (High)P2  (Medium)P3  (Low)</Priority>
+    <Status>bug workflow and life cycle</Status>
+    <Author>Bug report creator</Author>
+    <Assigned To>Name of the person assigned to resolve the issue</Assigned To>
+    <Environment>Information about the environment where the bug was found: operating system, service pack, for WEB testing - browser name and version, etc.</Environment>
+    <Description>Steps to Reproduce, Result, Expected Result</Description>
+    <Add-ons>Attachment</Add-ons>
+</root>
